@@ -14,7 +14,8 @@
 
 <h3> Tato aplikace pomáhá s organizací vánočních dárků. Umožňuje přidávat osoby, dárky a spravovat vše na jednom místě. </h3>
 
-![Ukázka aplikace](assets/background.png)
+![image](https://github.com/user-attachments/assets/2593690b-84e7-4fea-950a-a207bc636b42)
+
 
 
 ###
