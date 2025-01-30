@@ -10,15 +10,12 @@
 
 ###
 
-<h3>    
-     
-     |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  
+# Organizátor Vánočních Dárků
 
+<h3> Tato aplikace pomáhá s organizací vánočních dárků. Umožňuje přidávat osoby, dárky a spravovat vše na jednom místě. </h3>
 
-</h3>
+![Ukázka aplikace](assets/background.png)
+
 
 ###
 
